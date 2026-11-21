@@ -145,7 +145,7 @@ function Hero({ featuredImage }) {
             <div className="absolute bottom-6 left-6 right-6">
               <div className="glass rounded-2xl px-4 py-3">
                 <p className="text-warm-800 text-sm font-medium">Welcome To Our Gallery</p>
-                <p className="text-warm-500 text-xs mt-0.5">Dony & Jemila</p>
+                <p className="text-warm-500 text-xs mt-0.5">Gio & Zahra</p>
               </div>
             </div>
           </div>
